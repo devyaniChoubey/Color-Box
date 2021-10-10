@@ -13,7 +13,7 @@ export default  {
     },
     colors : {
         backgroundColor : "pink",
-        height: "150px",
+        height: "140px",
         width: "100%",
         borderRadius: "5px",
         overflow: "hidden"
